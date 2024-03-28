@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "scada";
+  src: url("../public/fonts/Scada-Bold.ttf");
+}
+@font-face {
+  font-family: "scadabolditalic";
+  src: url("../public/fonts/Scada-BoldItalic.ttf");
+}
+@font-face {
+  font-family: "scadaitalic";
+  src: url("../public/fonts/Scada-Italic.ttf");
+}
+@font-face {
+  font-family: "scadaregular";
+  src: url("../public/fonts/Scada-Regular.ttf");
+}
